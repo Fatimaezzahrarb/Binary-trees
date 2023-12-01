@@ -5,7 +5,7 @@
 /**
  * print_num - Print a number.
  *
- * @n: Number that should be printed
+ * @n: Number to be printed.
  */
 void print_num(int n)
 {
